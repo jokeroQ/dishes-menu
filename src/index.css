@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* button{
+  padding: 8px;
+  background-color: white;
+  border: 2px solid black;
+  cursor: pointer;
+  font-weight: 600;
+}
+select,input{
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  font-weight: 600;
+} */
+

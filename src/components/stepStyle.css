@@ -1,0 +1,26 @@
+.step_bar {
+    text-align: center;
+    span {
+        display: inline-block;
+        padding:4px 8px;
+        border: 1px solid black;
+        font-size: 16px;
+    }
+}
+
+.active {
+    background-color: skyblue;
+}
+.bottom{
+    display: flex;
+    justify-content: flex-end;
+}
+.bigBox{
+    width: 50%;
+    margin: 0 auto;
+}
+.btnStep{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
