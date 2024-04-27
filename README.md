@@ -5,7 +5,7 @@ dishes.json
 App.test.tsx
 
 # Tech Stack
-React + TypeScript + Vite + jest + taiwindcss
+React + TypeScript + Vite + jest + tailwindcss
 
 ## Requirements
 
